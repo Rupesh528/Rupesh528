@@ -1,37 +1,23 @@
-<h1 align="center">Hi 👋, I'm Puneet</h1>
+<h1 align="center">Hi 👋, I'm Rupesh</h1>
 <h3 align="center">A passionate Computer Science Student , Competitive Programmer</h3>
 
 <img align = "right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet73&label=Profile%20views&color=0e75b6&style=flat" alt="puneet73" /> </p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/145mXknxbz3Yi3qCTFPWZSueEhc-l3iNv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VKFShsV7lbJN3jWTVCj07JrAF9g-hAQF/view?usp=sharing)
 
 
-### Hi there 👋, I am [Rashmi](https://rusty-sj.github.io/)! 😁
-<!--
-**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+### Hi there 👋, I am [Rupesh](https://rupesh528.github.io/portfolio/)! 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with Statistics
-- 👯 I’m looking to collaborate on ...
--->
 
-Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+My name is Rupesh Sahani, and I have recently completed my master’s degree from PES University. Additionally, I have successfully completed an internship at KUKA Robotics & Automation. I am currently seeking internship opportunities or full-time roles where I can apply my skills and contribute effectively.
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+
+- 🔭 I’m currently looking for job.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+- 📫 How to reach me: sahanirupesh528@gmail.com
+- 😄 Pronouns: Programmer/coder
+- 📝 [Resume](https://drive.google.com/file/d/1VKFShsV7lbJN3jWTVCj07JrAF9g-hAQF/view?usp=sharing)
 
 **Languages and Tools:** 
 
