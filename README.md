@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet73&label=Profile%20views&color=0e75b6&style=flat" alt="puneet73" /> </p>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VKFShsV7lbJN3jWTVCj07JrAF9g-hAQF/view?usp=sharing)
-- 📄 Portfolio [Link](https://rupesh528.github.io/portfolio/)
+- 📄 Portfolio [Link](https://rupesh-sahani.vercel.app/)
 
 
 ### Hi there 👋, I am [Rupesh](https://rupesh-sahani.vercel.app/)! 😁
