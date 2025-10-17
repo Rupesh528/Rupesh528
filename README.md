@@ -8,7 +8,7 @@
 - 📄 Portfolio [Link](https://rupesh528.github.io/portfolio/)
 
 
-### Hi there 👋, I am [Rupesh](https://rupesh528.github.io/portfolio/)! 😁
+### Hi there 👋, I am [Rupesh](https://rupesh-sahani.vercel.app/)! 😁
 
 
 My name is Rupesh Sahani, and I have recently completed my master’s degree from PES University. Additionally, I have done internship at KUKA Robotics & Automation. I am currently seeking internship opportunities or full-time roles where I can apply my skills and contribute effectively.
@@ -17,7 +17,6 @@ My name is Rupesh Sahani, and I have recently completed my master’s degree fro
 - 🔭 I’m currently looking for job.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: sahanirupesh528@gmail.com
-- 😄 Pronouns: Programmer/coder
 - 📝 [Resume](https://drive.google.com/file/d/1VKFShsV7lbJN3jWTVCj07JrAF9g-hAQF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
