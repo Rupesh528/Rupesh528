@@ -30,9 +30,4 @@ I am currently seeking **internships or full-time opportunities** where I can ap
 <a href="https://www.leetcode.com/Rupesh528" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
----
 
-### 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-sahani&hide=TeX&layout=compact)
-
----
