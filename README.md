@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rupesh-sahani&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+
 
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1VKFShsV7lbJN3jWTVCj07JrAF9g-hAQF/view?usp=sharing)**  
 - 🌐 Portfolio: **[rupesh-sahani.vercel.app](https://rupesh-sahani.vercel.app/)**  
